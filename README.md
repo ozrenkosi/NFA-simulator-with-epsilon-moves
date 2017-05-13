@@ -6,7 +6,7 @@ Solution for the first lab at "Introduction to Theoretical Computer Science" cou
 Example
 ------
 
-Input file consists of minimum 5 rows in this specific order:
+Input file consists of rows in this specific order:
 
 1. line - input sequences separated with `|`, symbols of every sequence are separated with `,`
 2. line - lexicographically sorted states separated with `,`

@@ -10,7 +10,7 @@ Input file consists of minimum 5 rows in this specific order:
 
 1. line - input sequences separated with `|`, symbols of every sequence are separated with `,`
 2. line - lexicographically sorted states separated with `,`
-3. line - lexicographically sorted symols of the alphabet separated with `,`
+3. line - lexicographically sorted symbols of the alphabet separated with `,`
 4. line - lexicographically sorted acceptable states separated with `,`
 5. line - starting state
 6. line and all other lines - transition function in format `currentState,alphabetSymbol->collectionOfNextStates`. Epsilon transition is marked with `$`.
